@@ -6,7 +6,11 @@ OLOKITO CABRON 1
 new
 asdasdasd
 
+<<<<<<< HEAD
 TESTE 2
 klhgk
 
 Alteração de conflito
+=======
+Alteração feita
+>>>>>>> 3556b983f2f059e90c412133bc2da81ed7d0a0f5
